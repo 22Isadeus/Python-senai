@@ -1,0 +1,5 @@
+#O while é uma estrutura de repetição do Python que é utilizada quando não sabemos, de antemão, quantas vezes um bloco de código deverá ser repetido. Por exemplo, podemos escrever um programa que realiza a mesma tarefa de processamento para as transações bancárias de um cliente, mas não sabemos quantas transações serão processadas. Esta estrutura de repetição possuí a seguinte sintaxe, que pode ser interpretada de uma maneira simples: enquanto a expressão for verdadeira o bloco de código será repetido.
+#Em outras palavras, o while é uma estrutura de repetição que permite executar um determinado bloco de código enquanto uma determinada condição for verdadeira (True), criando assim o chamado loop de repetição
+
+#while <expressão>:
+#<bloco de código a ser repetido enquanto a expressão for verdadeira>
