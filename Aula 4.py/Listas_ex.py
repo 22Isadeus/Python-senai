@@ -1,0 +1,33 @@
+alunos = [
+    'Pedro',
+    'Borges',
+    'Pedro H',
+    'Vinicius',
+    'Felipe Morente',
+    'João',
+    'Felipe Henrique',
+    'Matheus Monteiro',
+    'Diego',
+    'Raissa',
+    'Ricardo',
+    'Luiza',
+    'Beatriz',
+    'Vanessa',
+    'Amanda',
+    'Isabela',
+    'Kasly',
+    'Jhonatan',
+    'Henrique',
+    'Kaique',
+    'Tairlan',
+    'Matheus Monteiro',
+    'Guilherme Pereira',
+    'Flavio',
+    'Ramon',
+    'Matheus Braga',
+    'Beatriz Cruz',
+    'Matheus Silveira',
+    'João Pedro'
+ ]
+for i in range(0, len(alunos)):
+    print(f'0 {i +1}º nome da lista é: {alunos[i]}')
